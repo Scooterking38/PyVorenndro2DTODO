@@ -4,5 +4,8 @@
 - ADD REACH LIMITATION VARIABLE FOR THE EXIT COMPASS TO THE CONFIG by herbal1st (no detailed plan yet, its intended to make them aware if they are right next to the target but avoid that they can see across the whole map)
 - ADD FRONT CENTERED EXIT SENSOR FOR MORE ACCURATE FORWARD EXIT TRACKING by herbal1st (no plan yet, will do it together with the reach limit)
 - CHANGE GREEN 'SOLVED' INDICATOR ON THE GENERATION SCRUBBAR TO REFLECT PERCENTAGE OF SOLVERS AS COLORS FROM RED TO GREEN by herbalst (no plan yet, should be simple though)
+  
+- THOROUGH MODULARIZATION FOR BETTER CODE MAINTENANCE by herbal1st (this will be a reocurring task)
+
 
 note: try out spacebar, left/right arrow and page up/down keys (you can keep them pressed as well)!

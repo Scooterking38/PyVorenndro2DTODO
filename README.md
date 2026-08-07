@@ -1,14 +1,15 @@
-- BRANCHING WALLS PROCEDURAL MAP GENERATION ENHANCEMENT TO INCREASE CORRIDOR WIDTH by herbal1st (detailed plan ready, will implement once i find some time)
-- PLUS [+] AND MINUS [-] NUMPAD KEYS TO INCREASE AND DECREASE VIEWPORT SPEED by herbal1st (no detailed plan yet, its just a small QoL/ux improvement update)
-- ADD REACH LIMITATION VARIABLE FOR THE EXIT COMPASS TO THE CONFIG by herbal1st (no detailed plan yet, its intended to make them aware if they are right next to the target but avoid that they can see across the whole map)
-- ADD FRONT CENTERED EXIT SENSOR FOR MORE ACCURATE FORWARD EXIT TRACKING by herbal1st (no plan yet, will do it together with the reach limit)
-- CHANGE GREEN 'SOLVED' INDICATOR ON THE GENERATION SCRUBBAR TO REFLECT PERCENTAGE OF SOLVERS AS COLORS FROM RED TO GREEN by herbalst (no plan yet, should be simple though)
+- BRANCHING WALLS PROCEDURAL MAP GENERATION ENHANCEMENT TO INCREASE CORRIDOR WIDTH - herbal1st
+- ADD PLUS [+] AND MINUS [-] NUMPAD KEYS TO INCREASE AND DECREASE VIEWPORT SPEED - herbal1st
+- ADD 'TAB' KEY TO TOGGLE BETWEEN FULLSCREEN AND MULTISCREEN - herbal1st
+- CHANGE GREEN 'SOLVED' INDICATOR ON THE GENERATION SCRUBBAR TO REFLECT PERCENTAGE OF SOLVERS AS COLORS FROM RED TO GREEN - herbalst
+- CHANGING HIDDEN LAYERS FOR THE NETWORKS MIGHT BE BROKEN - herbal1st
+- PLAYER SIZE IS MISSING IN THE YAML - herbal1st
+- DDA RAY RANGE LIMIT IS MISSING IN THE YAML - herbal1st
   
-- THOROUGH MODULARIZATION FOR BETTER CODE MAINTENANCE by herbal1st (this will be a reocurring task)
+- THOROUGH MODULARIZATION FOR BETTER CODE MAINTENANCE - herbal1st
 
 
-note: try out spacebar, left/right arrow and page up/down keys (you can keep them pressed as well)! (missing in the dev branch currently though)
+ ! DONE ! 
 
-DONE
-
-- DISC PERSISTENCE FOR TRAINED BRAINS by herbal1st (no detailed plan yet, will use ai agent and 3d pyvorenndro as rolemodel to come up with a good solution)
+- DISC PERSISTENCE FOR TRAINED BRAINS - herbal1st
+- ADD REACH LIMITATION VARIABLE FOR THE EXIT COMPASS TO THE CONFIG - herbal1st
